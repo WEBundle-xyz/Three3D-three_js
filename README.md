@@ -8,7 +8,7 @@
 
 [2 - Using Canvas from react-three/fiber ](../../treee560fd2b0768a0ade694b96624112bee8754bed2/)
 
-[3 - Empty ](../../tree//)
+[3 - Building the Scene with react-three-fiber ](../../tree//)
 
 [4 - Empty ](../../tree//)
 
